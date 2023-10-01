@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "brand": "Dell",
+      "price": 999.99,
+      "description": "Powerful laptop with high-resolution display.",
+      "category": "Laptops",
+      "image": "laptop.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Smartphone",
+      "brand": "Apple",
+      "price": 799.99,
+      "description": "The latest iPhone with advanced features.",
+      "category": "Smartphones",
+      "image": "iphone.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Desktop Computer",
+      "brand": "HP",
+      "price": 1299.99,
+      "description": "High-performance desktop for work and gaming.",
+      "category": "Desktops",
+      "image": "desktop.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Tablet",
+      "brand": "Samsung",
+      "price": 349.99,
+      "description": "Lightweight tablet for entertainment and productivity.",
+      "category": "Tablets",
+      "image": "tablet.jpg"
+    }
+  ]
+}
